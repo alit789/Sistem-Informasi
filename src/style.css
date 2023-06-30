@@ -2,14 +2,6 @@
   --primary: #2a3456;
   --second: #4a5d82;
 }
-a {
-  text-decoration: none !important;
-  color: white !important;
-}
-
-a:hover {
-  color: rgb(171, 171, 171) !important;
-}
 
 button {
   border: none;

@@ -19,6 +19,7 @@
                     <h6 class="card-title">GERAKAN ANAK TEKNIK 2022</h6>
                     <p class="card-text">5 May 2023</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
@@ -38,6 +39,7 @@
                     <h6 class="card-title">5PEKTAKU1ER</h6>
                     <p class="card-text">2 Descember 2022</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
@@ -57,6 +59,7 @@
                     <h6 class="card-title">PROSTFEST</h6>
                     <p class="card-text">13 - 14 Agustus 2022</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
@@ -75,6 +78,7 @@
                     <h6 class="card-title">PROSTFEST</h6>
                     <p class="card-text">13 - 14 Agustus 2022</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
@@ -94,6 +98,7 @@
                     <h6 class="card-title">Kreativitas Mahasiwa Teknik</h6>
                     <p class="card-text">13 - 14 Agustus 2022</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
@@ -113,6 +118,7 @@
                     <h6 class="card-title">Nyeni Fest</h6>
                     <p class="card-text">21 May 2023</p>
                     <h6>135.000 IDR</h6>
+                    <a href="../../../../SI/src/Section/buyTicket/buy.php"><button class="btn-dark btn w-100" >Buy Ticket</button></a>
                     <hr />
                     <div class="location">
                         <img src="./assets/loc.svg" alt="" />
